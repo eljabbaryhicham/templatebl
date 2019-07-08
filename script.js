@@ -7,10 +7,6 @@ $(function(){
     headerColor: '#000000',
     group: 'group1',
     loop: true
-    
-
-    
-    
   });
   
 })
