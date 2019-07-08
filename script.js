@@ -25,7 +25,7 @@ $(function(){
     radius: 3,
     zindex: 999,
     iframe: false,
-    iframeHeight: 400,
+    iframeHeight: 500,
     iframeURL: null,
     focusInput: true,
     group: '',
